@@ -3,7 +3,7 @@
 I’m a Front-end Developer passionate about building web applications and constantly improving my skills.  
 I love transforming ideas into user-friendly interfaces and clean, maintainable code.  
 
-🌐 **Website:** [sofiiashevtsova.netlify.app](https://sunny-yeot-584d1a.netlify.app/)  
+🌐 **Website:** [sofiia-shevtsova.netlify.app](https://sofiia-shevtsova.netlify.app/)  
 
 ---
 
